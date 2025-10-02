@@ -33,6 +33,8 @@ This project is a **cybersecurity analysis tool** designed to process `.eml` ema
    * Performs a **Whois lookup** to retrieve domain creation date (useful for spotting newly registered suspicious domains).
    * Queries **VirusTotal API** to fetch domain reputation, categories, and detection ratios.
    * Queries **urlscan.io API** to generate a report and retrieve a live screenshot of the domain for visual inspection.
+  
+   * Need to edit the following lines of the code for your APIS from VT and Urlscan --> 363 & 364
 
 6. **Reporting**
 
