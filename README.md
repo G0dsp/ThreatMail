@@ -1,9 +1,5 @@
 # EMLNaitor
 
-Perfect 👍 I’ll prepare you a **professional English explanation** for your GitHub repo (`README.md`) that describes how your code works step by step. You can copy-paste this directly or adapt it.
-
----
-
 # 📌 How the Code Works
 
 This project is a **cybersecurity analysis tool** designed to process `.eml` email files and extract valuable security information about the sender, domains, and any associated web content.
