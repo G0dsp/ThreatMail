@@ -1,4 +1,4 @@
-# EMLNaitor
+# ThreatMail
 
 # 📌 How the Code Works
 
