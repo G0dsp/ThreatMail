@@ -1,0 +1,7 @@
+# Dependencias externas necesarias
+requests
+python-whois
+colorama
+
+# Opcional (solo en Windows si necesitas readline-like):
+# pyreadline
