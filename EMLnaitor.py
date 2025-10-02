@@ -360,8 +360,8 @@ if __name__ == "__main__":
     html_file = "mail.html"
     
     # API keys y credenciales (reemplaza con las tuyas)
-    vt_api_key = "944e82c33e4c03c8dbcf50f1b6cb38ddc868e7032c1dca6e4bff90cd919bc146"
-    urlscan_api_key = "b1a54ee8-c1f1-4af0-82d2-ba7c53851a55"
+    vt_api_key = "XXXXX"
+    urlscan_api_key = "XXXXX"
     
     # 1. Decodificar el archivo y guardar en txt
     decode_base64_to_txt(eml_file, txt_file)
@@ -374,3 +374,4 @@ if __name__ == "__main__":
     
     # 4. Extraer la parte HTML y abrir en Firefox
     extract_html_from_eml(txt_file, html_file)
+
