@@ -88,6 +88,26 @@ This project is a **cybersecurity analysis tool** designed to process `.eml` ema
    * Print a full security report.
    * Extract HTML and open it in Firefox.
 
----
+<img width="1933" height="1180" alt="image" src="https://github.com/user-attachments/assets/3e520e08-6fbc-4e2c-93ff-e6f6e4012d97" />
 
-👉 Would you like me to also draft a **diagram/flowchart** of the workflow (like `input .eml → decode → analyze headers → reputation checks → report`) so it looks more visual in your GitHub?
+So as a resume
+
+Here’s the translation in English:
+
+📥 An `.eml` file is loaded.
+
+🔑 It is Base64 decoded → `mail.txt`.
+
+📧 Email headers are analyzed (SPF, DKIM, ARC, From, etc.).
+
+🌐 Domains are extracted.
+
+🕵️ Reputation checks are performed (VirusTotal, urlscan.io, Whois).
+
+💻 HTML content is extracted → `mail.html`.
+
+🔗 URLs are extracted.
+
+📊 A final security report is generated.
+
+
