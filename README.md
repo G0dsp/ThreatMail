@@ -88,7 +88,6 @@ This project is a **cybersecurity analysis tool** designed to process `.eml` ema
 
 So as a resume
 
-Here’s the translation in English:
 
 📥 An `.eml` file is loaded.
 
